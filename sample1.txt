@@ -1,0 +1,4 @@
+hello this is my first repo
+
+// git add . = it is used for adding all the files that you have created
+// git add "filename" = add only this file onto the git
