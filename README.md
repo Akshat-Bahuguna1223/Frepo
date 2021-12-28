@@ -1,2 +1,2 @@
-# Frepo
+# using_git
 practicing git
